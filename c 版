@@ -1,0 +1,4 @@
+#include<stadio.h>
+main{
+   printf("Go to the hell");
+  }
